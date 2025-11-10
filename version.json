@@ -1,7 +1,7 @@
 {
-  "version": "0.15.60",
-  "updated": "2025-11-05T12:11:26Z",
+  "version": "0.15.61",
+  "updated": "2025-11-10T09:14:17Z",
   "source": "EchionTechnologies/cyclepy",
-  "commit": "e5a486c5865a40b622bf6ec0f1bce3856ee714d9",
+  "commit": "cc70dbce66b7c8d27eb1e1efc2d89bd8ecdaa5c4",
   "tag": "main"
 }
